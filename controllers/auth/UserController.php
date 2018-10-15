@@ -4,6 +4,10 @@ namespace app\controllers\auth;
 
 use yii\web\Controller;
 
+/**
+ * Class UserController
+ * @package app\controllers\auth
+ */
 class UserController extends Controller
 {
     /**

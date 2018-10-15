@@ -28,3 +28,6 @@ phpunit.phar
 
 tests/_output/*
 tests/_support/_generatedvendor
+tests/tests/_support
+tests/tests/_data
+tests/tests/_output
